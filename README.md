@@ -1,6 +1,6 @@
 
 ## Comandos de GIT
-GIT - Verseonamento de códigos**
+GIT - Verseonamento de códigos
 
 - Cria pasta(repositório)
 
