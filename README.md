@@ -1,5 +1,5 @@
 
-## **Comandos de GIT
+## Comandos de GIT
 GIT - Verseonamento de códigos**
 
 - Cria pasta(repositório)
